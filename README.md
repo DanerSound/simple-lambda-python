@@ -9,4 +9,4 @@ the function checks if the user_name already exist in the table, if is true it u
 
 the current value of the counter.
 
-![local_output](simple-db.JPGg)
+![local_output](https://github.com/DanerSound/simple-lambda-python/blob/main/simple-db.JPG)
